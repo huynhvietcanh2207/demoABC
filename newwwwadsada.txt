@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+1312thuộc be2_1
+=======
 1312
 thuộc be2_1 và main
+>>>>>>> main
